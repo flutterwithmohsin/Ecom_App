@@ -1,6 +1,8 @@
 # ecom_store
 
 A new Flutter project.
+This is the app by techi4u in red color theme .
+Ecommerce App with admin pannel as well
 
 ## Getting Started
 
